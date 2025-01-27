@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import bootstrap from 'bootstrap'
+
 import { redirect } from 'react-router-dom';
 function Signup() {
     return ( 
