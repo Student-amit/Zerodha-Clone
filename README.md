@@ -53,10 +53,10 @@ By creating this project, you showcase your ability to build a **scalable, finan
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/zerodha-clone.git  
+git clone https://github.com/amit-mishra99/Zerodha-Clone.git  
 
 # Navigate into the project directory
-cd zerodha-clone  
+cd Zerodha-Clone  
 
 # Install dependencies
 npm install  
